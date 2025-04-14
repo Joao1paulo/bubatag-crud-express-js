@@ -15,11 +15,9 @@ Este é um sistema web, um CRUD criado com **Node.js**, utilizando **Express.js*
 ---
 
 ## 📚 Autores
-Desenvolvido por [
-Arthur Fukunaga Fagundes Nepomuceno
-Carlos Eduardo Campos Takeshita
-Cristhian Hatzman Trigo
-João Paulo Goreri Rustichelli
-Vinicius de Souza Camargo
-]
+Desenvolvido por [Arthur Fukunaga Fagundes Nepomuceno, 
+Carlos Eduardo Campos Takeshita, 
+Cristhian Hatzman Trigo, 
+João Paulo Goreri Rustichelli, 
+Vinicius de Souza Camargo]
 Alunos da Fatec Registro

@@ -1,7 +1,7 @@
 # 🐛 Bubatag
 
-Projeto desenvolvido como parte das atividades da **Fatec Registro**.  
-Este é um sistema web simples criado com **Node.js**, utilizando **Express.js** e **EJS** para renderização de páginas.
+Projeto desenvolvido para o Projeto Integrador da **Fatec Registro**.  
+Este é um sistema web, um CRUD criado com **Node.js**, utilizando **Express.js** e **EJS** para renderização de páginas.
 
 ---
 

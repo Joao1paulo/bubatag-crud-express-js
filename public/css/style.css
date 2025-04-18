@@ -3,11 +3,11 @@ html, body {
   margin: 0;
   padding: 0;
 }
-
+/* COMEÇA LOGIN.EJS */
 .login-page {
   min-height: 100%;
   background-repeat: no-repeat;
-  background-image: linear-gradient(rgb(72, 255, 133), rgb(50, 177, 82));
+  background-image: linear-gradient(#48ff85, rgb(50, 177, 82));
   display: flex;
   align-items: center;
   justify-content: center;
@@ -140,4 +140,31 @@ html, body {
 .forgot-password:active,
 .forgot-password:focus{
     color: rgb(12, 97, 33);
+}
+/* TERMINA LOGIN.EJS */
+/* COMEÇA INDEX.EJS */
+tbody tr:nth-child(odd) {
+    background-color: white;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #48FF85;
+  }
+
+  /* Opcional: mudar a cor do hover */
+  tbody tr:hover {
+    background-color: #90A955;
+  }
+
+  .tabela-container {
+    background-color: white;
+    padding: 25px;
+    width: 100%;
+    display: inline-block; /* Faz com que a "borda" fique justinha na tabela */
+  }
+/* ACABA INDEX.EJS */
+/* NAVBAR */
+.nav-item{
+    color: white;
+    font-weight: bold;
 }

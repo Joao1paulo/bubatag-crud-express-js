@@ -5,8 +5,8 @@
 
 ---
 
-🧠 Objetivo do Projeto
-Este projeto tem como foco o desenvolvimento de um sistema CRUD completo, abordando os conceitos:
+## 🧠 Objetivo do Projeto
+Este projeto tem como foco o desenvolvimento de um sistema CRUD completo, abordando os conceitos: <br>
 
 > Criação e organização de rotas com Express.js
 > Integração com banco de dados usando Sequelize + MySQL2
@@ -26,28 +26,13 @@ Este projeto tem como foco o desenvolvimento de um sistema CRUD completo, aborda
 
 ---
 
-## 📁 Estrutura do Projeto
-
-bubatag/
-├── public/             # Arquivos estáticos (CSS, imagens, JS) <br>
-├── views/              # Páginas EJS <br>
-├── routes/             # Rotas da aplicação <br>
-├── models/             # Definições das entidades com Sequelize <br>
-├── config/             # Configurações de banco de dados <br>
-├── controllers/        # Lógica das rotas (opcional) <br>
-├── app.js              # Arquivo principal <br>
-├── package.json        # Configurações do projeto <br>
-└── README.md
-
----
-
 ## 👥 Autores
 
-Desenvolvido por estudantes da Fatec Registro:
-Arthur Fukunaga Fagundes Nepomuceno <br>
-Carlos Eduardo Campos Takeshita <br>
-Cristhian Hatzman Trigo <br>
-João Paulo Goreri Rustichelli <br>
-Vinicius de Souza Camargo <br>
+Desenvolvido por estudantes da Fatec Registro: <br>
+- Arthur Fukunaga Fagundes Nepomuceno <br>
+- Carlos Eduardo Campos Takeshita <br>
+- Cristhian Hatzman Trigo <br>
+- João Paulo Goreri Rustichelli <br>
+- Vinicius de Souza Camargo <br>
 
 💡 Sinta-se à vontade para contribuir ou adaptar esse projeto para fins acadêmicos!

@@ -29,14 +29,14 @@ Este projeto tem como foco o desenvolvimento de um sistema CRUD completo, aborda
 ## 📁 Estrutura do Projeto
 
 bubatag/
-├── public/             # Arquivos estáticos (CSS, imagens, JS)
-├── views/              # Páginas EJS
-├── routes/             # Rotas da aplicação
-├── models/             # Definições das entidades com Sequelize
-├── config/             # Configurações de banco de dados
-├── controllers/        # Lógica das rotas (opcional)
-├── app.js              # Arquivo principal
-├── package.json        # Configurações do projeto
+├── public/             # Arquivos estáticos (CSS, imagens, JS) <br>
+├── views/              # Páginas EJS <br>
+├── routes/             # Rotas da aplicação <br>
+├── models/             # Definições das entidades com Sequelize <br>
+├── config/             # Configurações de banco de dados <br>
+├── controllers/        # Lógica das rotas (opcional) <br>
+├── app.js              # Arquivo principal <br>
+├── package.json        # Configurações do projeto <br>
 └── README.md
 
 ---
@@ -44,10 +44,10 @@ bubatag/
 ## 👥 Autores
 
 Desenvolvido por estudantes da Fatec Registro:
-Arthur Fukunaga Fagundes Nepomuceno
-Carlos Eduardo Campos Takeshita
-Cristhian Hatzman Trigo
-João Paulo Goreri Rustichelli
-Vinicius de Souza Camargo
+Arthur Fukunaga Fagundes Nepomuceno <br>
+Carlos Eduardo Campos Takeshita <br>
+Cristhian Hatzman Trigo <br>
+João Paulo Goreri Rustichelli <br>
+Vinicius de Souza Camargo <br>
 
 💡 Sinta-se à vontade para contribuir ou adaptar esse projeto para fins acadêmicos!
